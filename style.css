@@ -1,0 +1,53 @@
+h4 {
+    color: green;
+    text-align:center;
+}
+
+.text-container {
+    display:flex;
+    justify-content:center;
+}
+
+/* #player1 {
+    margin-right: 50px;
+    margin-left: 400px;
+}
+#player2 {
+    margin-left: 50px;
+    margin-right: 300px;
+} */
+/* .alignment-div {
+    text-align: center;
+} */
+#rollButton1, #rollButton2 {
+    background-color: rgb(107, 239, 107);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+
+}
+p {
+    color:green;
+    font-size: large;
+    text-align: center;
+}
+#reset-button {
+    background-color:coral;
+    text-align: center; 
+    margin: 5px;
+    font-size: large;
+    
+}
+.text-container2 {
+    text-align: center;
+    margin-top: 30px;
+}
+img {
+    margin: 0 100px 0 100px;
+    height: 100px;
+    width: 110px;
+    margin-top: 45px
+}
